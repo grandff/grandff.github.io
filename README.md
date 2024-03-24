@@ -1,3 +1,9 @@
+## 명령어
+
+```bash
+jekyll serve
+```
+
 <!-- markdownlint-disable-next-line -->
 <div align="center">
 
